@@ -2,6 +2,6 @@ Eugenia Shevtsova
 How to write a paper in Git
 
 Introductions
-Blah blah blah blahhh
+Blah blah blah blahhh more blahhh
 
 Cite instrument paper in introduction
