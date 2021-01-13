@@ -1,8 +1,8 @@
-Eugenia Shevtsova 
+John Smith
 <<<<<<< HEAD
 How to write a paper in Git better title
 =======
-John Smith 
+Eugenia Shevtsova  
 >>>>>>> simulations
 
 Introductions
