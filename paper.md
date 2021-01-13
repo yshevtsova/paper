@@ -1,4 +1,5 @@
 Eugenia Shevtsova 
+John Smith 
 How to write a paper in Git
 
 Introductions
