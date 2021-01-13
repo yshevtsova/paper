@@ -1,5 +1,5 @@
 Eugenia Shevtsova 
-How to write a paper in Git
+How to write a paper in Git better title
 
 Introductions
 Blah blah blah blahhh more blahhh and even more blahh
