@@ -5,6 +5,10 @@ European Commission
 
 How to write a paper in Git better title
 
+Acknowledgements 
+
+I am grateful to myself for everything
+
 
 Introductions
 Blah blah blah blahhh more blahhh and even more blahh
