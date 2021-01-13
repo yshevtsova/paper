@@ -15,3 +15,7 @@ This research is very important because i like it.
 Simulations section 
 
 Blah blah blah
+
+Methodology section 
+
+Blah blah blah 
