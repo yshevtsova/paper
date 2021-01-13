@@ -1,8 +1,10 @@
-Eugenia Shevtsova 
+Eugenia Shevtsova  
+European Commission
 <<<<<<< HEAD
 How to write a paper in Git better title
 =======
 John Smith 
+University of Brexit
 >>>>>>> simulations
 
 Introductions
