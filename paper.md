@@ -1,9 +1,10 @@
 John Smith
-<<<<<<< HEAD
-How to write a paper in Git better title
-=======
+University of Brexit 
 Eugenia Shevtsova  
->>>>>>> simulations
+European Commission
+
+How to write a paper in Git better title
+
 
 Introductions
 Blah blah blah blahhh more blahhh and even more blahh
